@@ -1,0 +1,85 @@
+ *{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+ }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.head {
+background-image:url("nubes.jpg");
+margin:5px 100px;
+border-radius:5px;
+height:75px;
+padding:10px;
+}
+.menu {
+background-color:#3d373a;
+margin:5px 100px;
+border-radius:5px;
+height:45px;
+padding:10px;
+}
+.body {
+background-color:#fed4f0;
+margin:5px 100px;
+border-radius:5px;
+height:800px;
+padding:10px;
+}
+.foot {
+background-color:#ff7cd2;
+margin:5px 100px;
+border-radius:5px;
+height:200px;
+padding:10px;
+overflow: hidden;
+}
+.video{
+  display: flex;
+}
+.box{
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 61px 53px; 
+}
+.foot-contacto{
+  width: 200px;
+  padding:20px 120px ;
+}
+.about-me{
+  width: 200px;
+  padding:0 120px ;
+}
+.items{
+  padding: 0 10px;
+}
